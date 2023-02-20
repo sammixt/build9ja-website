@@ -9,12 +9,12 @@ import menu from "../images/menu.svg";
 const Header = () => {
   return (
     <>
-      <header className="header-top-strip py-3">
+      <header className="header-top-strip py-2">
         <div className="container-xxl">
           <div className="row">
             <div className="col-6">
               <p className="text-white mb-0">
-                Free Shipping Over $100 & Free Returns
+                Free Shipping Over ₦100,000 & Free Returns
               </p>
             </div>
             <div className="col-6">
@@ -33,7 +33,7 @@ const Header = () => {
           <div className="row align-items-center">
             <div className="col-2">
               <h2>
-                <Link className="text-white">Dev Corner</Link>
+                <Link className="text-white">Build9ja</Link>
               </h2>
             </div>
             <div className="col-5">
